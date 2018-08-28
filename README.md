@@ -1,8 +1,20 @@
-# flutter_app_plugin_test
+
+# flutter_login_registration_home_with_api
 
 A new Flutter application.
 
-## Getting Started
+# Android View
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+### Login
+
+
+<img src="https://image.ibb.co/nO8J3U/Screenshot_2018_08_28_17_49_00_973_com_debut_flutterappplugintest.png" width="300" height="500">
+
+### Registration
+<img src="https://image.ibb.co/fgxpA9/Screenshot_2018_08_28_17_49_06_056_com_debut_flutterappplugintest.png" width="300" height="500">
+
+### Home
+<img src="https://image.ibb.co/eCTUA9/Screenshot_2018_08_28_17_49_36_412_com_debut_flutterappplugintest.png" width="300" height="500">
+
+
+
